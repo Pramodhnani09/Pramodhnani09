@@ -14,14 +14,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎯 Interested in Artificial Intelligence and Machine Learning.
-- 🐍 Exploring Python and data analysis.
-- 🤖 Learning Generative AI.
-- 🚀 Building practical projects.
-
-
 # Hi, I'm SANGOLLA PRAMOD 👋
 
 ### Aspiring AI & Machine Learning Developer
