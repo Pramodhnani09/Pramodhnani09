@@ -1,7 +1,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5CFF,100:7F00FF&height=200&section=header&text=Pramod%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" alt="Pramod Kumar AI and Machine Learning banner"/>
+# SANGOLLA PRAMOD
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Learning+Python+and+Machine+Learning;Exploring+Generative+AI;Building+Practical+Projects" alt="Animated typing text" />
+
+</div>
+
 
 # Hi, I'm SANGOLLA PRAMOD 👋
 
