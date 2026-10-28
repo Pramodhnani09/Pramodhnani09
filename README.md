@@ -17,6 +17,8 @@
 ## 🛠️ Technologies & Tools
 
 
+![Pramod's AI and Machine Learning Learning Journey](./pramod-learning-focus-workflow.png)
+
 ![Tech Stack and AI/ML Model Workflow](./pramod-ai-tech-stack-workflow.png)
 
 
