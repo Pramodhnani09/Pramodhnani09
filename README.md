@@ -4,14 +4,6 @@
 </div>
 ---
 
-# Hi, I'm SANGOLLA PRAMOD 👋
-
-### Aspiring AI & Machine Learning Developer
-
-Building practical projects and learning by doing.
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
