@@ -30,11 +30,6 @@ Building practical projects and learning by doing.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## 🚀 My Projects
-
-- **Project 1:** Add the name and description of a real project.
-- **Project 2:** Describe another project and the problem it solves.
-- **Project 3:** Showcase a new experiment or application as you build it.
 
 ## 📊 GitHub Statistics
 
