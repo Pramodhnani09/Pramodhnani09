@@ -45,7 +45,7 @@ Building practical projects and learning by doing.
 ## 📫 Connect With Me
 
 - GitHub: [@Pramodhnani09](https://github.com/Pramodhnani09)
-- LinkedIn: Add your LinkedIn URL here when available.
+- LinkedIn:www.linkedin.com/in/sangolla-pramod-28317a25a
 
 ---
 
