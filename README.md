@@ -3,9 +3,23 @@
 
 # SANGOLLA PRAMOD
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Learning+Python+and+Machine+Learning;Exploring+Generative+AI;Building+Practical+Projects" alt="Animated typing text" />
+<img src="./pramod-ai-animated-background.gif"
+     width="100%"
+     alt="Animated purple AI background" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Learning+Python+and+Machine+Learning;Exploring+Generative+AI"
+     alt="Animated typing text" />
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Interested in Artificial Intelligence and Machine Learning.
+- 🐍 Exploring Python and data analysis.
+- 🤖 Learning Generative AI.
+- 🚀 Building practical projects.
 
 
 # Hi, I'm SANGOLLA PRAMOD 👋
