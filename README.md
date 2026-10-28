@@ -1,14 +1,9 @@
 
 <div align="center">
 
-# SANGOLLA PRAMOD
-
-<img src="./pramod-ai-animated-background.gif"
+<img src="./pramod-ai-profile-banner.gif"
      width="100%"
-     alt="Animated purple AI background" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Learning+Python+and+Machine+Learning;Exploring+Generative+AI"
-     alt="Animated typing text" />
+     alt="SANGOLLA PRAMOD | AI and Machine Learning | Python, Machine Learning, Generative AI" />
 
 </div>
 
