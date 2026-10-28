@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5CFF,100:7F00FF&height=200&section=header&text=Pramod%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" alt="Pramod Kumar AI and Machine Learning banner"/>
 
-# Hi, I'm Sangolla Pramod Kumar 👋
+# Hi, I'm SANGOLLA PRAMOD 👋
 
 ### Aspiring AI & Machine Learning Developer
 
