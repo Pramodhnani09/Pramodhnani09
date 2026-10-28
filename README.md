@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./pramod-ai-profile-banner.gif"
