@@ -1,10 +1,5 @@
-<div align="center">
 
-<img src="./pramod-ai-profile-banner.gif"
-     width="100%"
-     alt="SANGOLLA PRAMOD | AI and Machine Learning | Python, Machine Learning, Generative AI" />
-
-</div>
+![SANGOLLA PRAMOD - AI and Machine Learning](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=SANGOLLA%20PRAMOD&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20%7C%20Python%20%7C%20Generative%20AI&descAlignY=65&descSize=18)
 
 ---
 
